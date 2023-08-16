@@ -3,4 +3,4 @@
 ## Grid Gallery Portfolio Website
 
 - Built with HTML and pure CSS.
-  Live link:
+- Live link: https://florxgomez.github.io/grid-gallery/
